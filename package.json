@@ -1,0 +1,19 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "this is dev blog",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shin-shin/myBlog.git"
+  },
+  "author": "Irene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shin-shin/myBlog/issues"
+  },
+  "homepage": "https://github.com/shin-shin/myBlog#readme"
+}
