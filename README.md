@@ -1,18 +1,21 @@
-## Some things we want our user to see when visiting our blog ##
+## Some things I want my user to see when visiting my blog ##
 
-Ice Box - Nice to Haves
+**Ice Box - Nice to Haves**
+
 1) Stripe Donation Feature
 
-**user stories**
-as a user I should see...
+**User Stories**
+
+As a user I should see...
 
 0) Donation link
 1) Welcome message
 2) Lists of blog articles
-3) 
+
 
 ### Data Entities
 **What should our blog post look like**
+
 0) Id - we need to uniquely identify a post
 1) Title - MVP
 2) Posts - body of text - MVP
